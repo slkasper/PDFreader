@@ -2,6 +2,7 @@
 Thought this looked like a good project. Uses Streamlit and Langchain.
 
 Here's the flow:
+
 ![Flow](./PDF-Chat%20App.png)
 
 Originally from here:
