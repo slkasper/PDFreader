@@ -7,3 +7,7 @@ Here's the flow:
 
 Originally from here:
 (https://youtu.be/u8vQyTzNGVY)
+
+UPDATE:
+I found the original repo I got this from. It was this one:
+https://github.com/youssefHosni/Chat-with-Pdf
